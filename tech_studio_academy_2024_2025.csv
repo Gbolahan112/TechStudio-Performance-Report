@@ -1,0 +1,151 @@
+Student_ID,Name,Gender,Age,Course,Enrolment_Date,Completion_Date,City,Mode,Fee,Discount,Payment_Status,Satisfaction_Score,Grade,Outcome
+TS001,Student_1,Male,32,Product Design,2024-03-12,2024-08-19,Lagos,Online,180000,0.05,Paid,7,C,Further Study
+TS002,Student_2,Female,25,Full Stack Web Development,2024-05-10,2024-09-08,Lagos,Onsite,300000,0.15,Pending,10,B,Employed
+TS003,Student_3,Male,18,Full Stack Web Development,2024-11-09,2025-03-10,Lagos,Onsite,300000,0.0,Paid,7,C,Employed
+TS004,Student_4,Female,33,Product Design,2024-07-08,2024-12-16,Port Harcourt,Onsite,180000,0.1,Paid,8,D,Employed
+TS005,Student_5,Male,24,Data Analysis,2024-06-15,2024-10-10,Ibadan,Online,200000,0.15,Paid,6,A,Employed
+TS006,Student_6,Female,32,Full Stack Web Development,2025-03-30,2025-08-20,Lagos,Onsite,300000,0.1,Paid,5,D,Employed
+TS007,Student_7,Female,19,Cyber Security,2025-01-24,2025-06-26,Abuja,Onsite,250000,0.05,Paid,6,B,Employed
+TS008,Student_8,Female,21,Cyber Security,2024-09-27,2025-03-17,Abuja,Online,250000,0.15,Paid,9,D,Unemployed
+TS009,Student_9,Male,30,Data Analysis,2024-06-05,2024-09-27,Lagos,Online,200000,0.0,Pending,5,D,Employed
+TS010,Student_10,Male,28,Product Design,2025-08-15,2025-11-30,Port Harcourt,Online,180000,0.0,Paid,6,C,Unemployed
+TS011,Student_11,Female,24,Data Analysis,2024-02-02,2024-06-28,Port Harcourt,Online,200000,0.05,Paid,7,D,Unemployed
+TS012,Student_12,Male,20,Data Analysis,2025-09-04,2026-01-28,Abuja,Online,200000,0.0,Paid,10,C,Employed
+TS013,Student_13,Male,32,Cyber Security,2025-07-07,2025-12-30,Port Harcourt,Online,250000,0.15,Paid,8,A,Employed
+TS014,Student_14,Female,22,Product Design,2024-08-18,2024-12-10,Port Harcourt,Online,180000,0.15,Pending,7,C,Employed
+TS015,Student_15,Female,27,Data Analysis,2025-07-27,2025-12-30,Lagos,Onsite,200000,0.15,Pending,8,D,Further Study
+TS016,Student_16,Male,24,Cyber Security,2024-08-12,2024-11-20,Lagos,Online,250000,0.05,Paid,9,A,Employed
+TS017,Student_17,Female,25,Product Design,2024-11-13,2025-03-29,Lagos,Online,180000,0.05,Paid,7,B,Employed
+TS018,Student_18,Female,26,Full Stack Web Development,2024-04-22,2024-09-30,Lagos,Onsite,300000,0.15,Paid,6,C,Employed
+TS019,Student_19,Male,34,Product Design,2024-04-22,2024-08-01,Abuja,Onsite,180000,0.05,Paid,5,A,Employed
+TS020,Student_20,Female,29,Cyber Security,2025-02-19,2025-08-05,Port Harcourt,Online,250000,0.15,Paid,10,D,Employed
+TS021,Student_21,Female,23,Cyber Security,2025-05-25,2025-09-17,Lagos,Online,250000,0.15,Paid,9,C,Employed
+TS022,Student_22,Male,21,Product Design,2024-12-11,2025-05-26,Port Harcourt,Online,180000,0.15,Paid,8,A,Unemployed
+TS023,Student_23,Female,24,Cyber Security,2025-04-17,2025-09-13,Port Harcourt,Online,250000,0.05,Paid,8,D,Further Study
+TS024,Student_24,Male,34,Cyber Security,2024-10-30,2025-02-18,Lagos,Online,250000,0.15,Paid,5,A,Employed
+TS025,Student_25,Female,33,Product Design,2025-02-07,2025-06-10,Abuja,Onsite,180000,0.0,Paid,7,A,Employed
+TS026,Student_26,Female,25,Full Stack Web Development,2024-09-10,2025-03-27,Ibadan,Onsite,300000,0.0,Paid,9,B,Employed
+TS027,Student_27,Female,19,Cyber Security,2024-06-11,2024-12-07,Lagos,Online,250000,0.15,Paid,5,B,Employed
+TS028,Student_28,Female,25,Product Design,2024-07-13,2024-11-06,Ibadan,Online,180000,0.15,Paid,7,B,Employed
+TS029,Student_29,Female,23,Cyber Security,2024-12-30,2025-05-29,Abuja,Onsite,250000,0.1,Paid,9,B,Unemployed
+TS030,Student_30,Male,18,Data Analysis,2025-05-30,2025-10-11,Ibadan,Online,200000,0.15,Paid,8,B,Further Study
+TS031,Student_31,Male,23,Product Design,2024-02-06,2024-06-08,Lagos,Online,180000,0.05,Pending,7,D,Further Study
+TS032,Student_32,Male,18,Full Stack Web Development,2024-11-18,2025-03-15,Lagos,Onsite,300000,0.1,Pending,7,D,Employed
+TS033,Student_33,Female,32,Cyber Security,2025-09-30,2026-02-03,Abuja,Onsite,250000,0.05,Paid,5,A,Unemployed
+TS034,Student_34,Female,24,Data Analysis,2025-06-21,2026-01-05,Abuja,Online,200000,0.15,Pending,6,C,Employed
+TS035,Student_35,Male,18,Full Stack Web Development,2025-05-26,2025-09-18,Abuja,Onsite,300000,0.1,Paid,8,B,Employed
+TS036,Student_36,Male,34,Full Stack Web Development,2024-02-23,2024-07-31,Lagos,Online,300000,0.15,Paid,8,D,Unemployed
+TS037,Student_37,Female,23,Data Analysis,2024-12-15,2025-05-10,Port Harcourt,Online,200000,0.15,Paid,9,B,Employed
+TS038,Student_38,Female,34,Full Stack Web Development,2025-08-26,2026-01-30,Port Harcourt,Onsite,300000,0.0,Paid,10,C,Employed
+TS039,Student_39,Female,18,Cyber Security,2025-09-25,2026-01-03,Port Harcourt,Onsite,250000,0.15,Paid,5,D,Further Study
+TS040,Student_40,Male,33,Data Analysis,2025-03-22,2025-09-06,Abuja,Online,200000,0.1,Paid,6,D,Employed
+TS041,Student_41,Female,31,Full Stack Web Development,2024-03-09,2024-08-02,Lagos,Onsite,300000,0.05,Pending,9,D,Employed
+TS042,Student_42,Female,33,Data Analysis,2025-07-04,2026-01-19,Lagos,Onsite,200000,0.05,Paid,6,B,Further Study
+TS043,Student_43,Female,19,Full Stack Web Development,2024-08-10,2024-11-27,Abuja,Online,300000,0.05,Paid,9,A,Employed
+TS044,Student_44,Female,33,Product Design,2024-09-14,2025-03-24,Ibadan,Onsite,180000,0.1,Pending,8,B,Employed
+TS045,Student_45,Male,18,Data Analysis,2025-03-02,2025-06-21,Port Harcourt,Online,200000,0.0,Paid,7,D,Employed
+TS046,Student_46,Female,31,Cyber Security,2024-09-09,2025-01-21,Port Harcourt,Online,250000,0.05,Paid,6,B,Employed
+TS047,Student_47,Female,26,Product Design,2024-07-14,2024-12-18,Lagos,Onsite,180000,0.0,Pending,8,A,Further Study
+TS048,Student_48,Male,21,Cyber Security,2025-04-01,2025-08-02,Ibadan,Online,250000,0.0,Paid,8,B,Employed
+TS049,Student_49,Female,22,Full Stack Web Development,2025-01-03,2025-06-06,Lagos,Online,300000,0.0,Paid,10,A,Employed
+TS050,Student_50,Female,33,Data Analysis,2024-12-07,2025-03-29,Port Harcourt,Online,200000,0.0,Paid,9,A,Further Study
+TS051,Student_51,Male,24,Full Stack Web Development,2025-01-18,2025-06-18,Port Harcourt,Onsite,300000,0.1,Paid,9,C,Unemployed
+TS052,Student_52,Female,21,Data Analysis,2024-05-30,2024-09-22,Lagos,Online,200000,0.0,Pending,6,C,Further Study
+TS053,Student_53,Female,22,Product Design,2024-08-02,2025-02-10,Port Harcourt,Online,180000,0.05,Pending,5,B,Further Study
+TS054,Student_54,Male,23,Product Design,2024-06-22,2024-10-12,Ibadan,Onsite,180000,0.0,Pending,6,B,Employed
+TS055,Student_55,Male,23,Product Design,2025-05-10,2025-10-21,Abuja,Onsite,180000,0.0,Pending,5,A,Unemployed
+TS056,Student_56,Female,29,Cyber Security,2024-06-15,2024-12-22,Abuja,Onsite,250000,0.1,Paid,7,A,Employed
+TS057,Student_57,Female,25,Data Analysis,2024-12-26,2025-05-13,Lagos,Online,200000,0.0,Paid,5,C,Employed
+TS058,Student_58,Male,18,Cyber Security,2024-04-26,2024-08-09,Abuja,Onsite,250000,0.0,Pending,9,C,Further Study
+TS059,Student_59,Female,28,Full Stack Web Development,2024-08-16,2024-12-29,Port Harcourt,Online,300000,0.15,Paid,5,A,Unemployed
+TS060,Student_60,Male,18,Data Analysis,2025-07-19,2025-10-29,Ibadan,Online,200000,0.0,Pending,6,D,Employed
+TS061,Student_61,Female,29,Full Stack Web Development,2025-01-07,2025-04-24,Abuja,Onsite,300000,0.15,Paid,6,D,Employed
+TS062,Student_62,Female,22,Data Analysis,2025-05-16,2025-10-25,Lagos,Online,200000,0.0,Paid,9,D,Employed
+TS063,Student_63,Male,31,Product Design,2024-09-09,2024-12-23,Abuja,Online,180000,0.15,Paid,5,B,Employed
+TS064,Student_64,Female,30,Data Analysis,2024-04-28,2024-09-07,Abuja,Online,200000,0.05,Pending,5,C,Employed
+TS065,Student_65,Male,34,Data Analysis,2025-09-01,2026-03-18,Port Harcourt,Online,200000,0.0,Paid,10,D,Further Study
+TS066,Student_66,Male,22,Cyber Security,2025-03-12,2025-07-12,Lagos,Online,250000,0.0,Paid,7,A,Employed
+TS067,Student_67,Male,31,Data Analysis,2024-02-20,2024-07-13,Lagos,Onsite,200000,0.05,Pending,6,D,Employed
+TS068,Student_68,Male,19,Cyber Security,2024-04-27,2024-08-07,Port Harcourt,Onsite,250000,0.15,Pending,8,A,Employed
+TS069,Student_69,Male,34,Full Stack Web Development,2024-10-29,2025-02-28,Port Harcourt,Online,300000,0.0,Paid,7,C,Further Study
+TS070,Student_70,Female,19,Cyber Security,2024-11-01,2025-05-17,Abuja,Onsite,250000,0.1,Paid,6,D,Employed
+TS071,Student_71,Male,32,Full Stack Web Development,2025-06-25,2025-11-22,Lagos,Online,300000,0.0,Paid,5,B,Unemployed
+TS072,Student_72,Female,22,Cyber Security,2024-02-22,2024-08-05,Lagos,Onsite,250000,0.1,Paid,7,C,Employed
+TS073,Student_73,Male,33,Product Design,2025-01-08,2025-05-03,Ibadan,Onsite,180000,0.15,Paid,5,C,Further Study
+TS074,Student_74,Male,22,Cyber Security,2025-08-26,2026-01-14,Lagos,Onsite,250000,0.0,Paid,9,A,Employed
+TS075,Student_75,Female,19,Data Analysis,2024-03-18,2024-09-23,Lagos,Online,200000,0.0,Paid,5,B,Employed
+TS076,Student_76,Female,28,Product Design,2024-02-17,2024-07-26,Lagos,Onsite,180000,0.15,Pending,5,C,Employed
+TS077,Student_77,Male,32,Product Design,2024-02-25,2024-08-28,Abuja,Onsite,180000,0.15,Paid,6,A,Employed
+TS078,Student_78,Male,24,Product Design,2025-09-14,2026-01-14,Abuja,Online,180000,0.1,Paid,6,B,Employed
+TS079,Student_79,Male,32,Full Stack Web Development,2025-09-22,2026-01-27,Abuja,Online,300000,0.0,Pending,10,B,Employed
+TS080,Student_80,Male,34,Data Analysis,2024-07-30,2024-12-01,Ibadan,Onsite,200000,0.1,Paid,6,C,Employed
+TS081,Student_81,Female,19,Product Design,2025-01-03,2025-07-04,Abuja,Online,180000,0.0,Paid,6,D,Employed
+TS082,Student_82,Female,30,Cyber Security,2025-01-11,2025-05-23,Lagos,Onsite,250000,0.0,Paid,8,B,Employed
+TS083,Student_83,Female,26,Product Design,2024-08-30,2025-01-07,Ibadan,Online,180000,0.15,Pending,10,B,Employed
+TS084,Student_84,Male,21,Product Design,2024-04-27,2024-11-06,Ibadan,Onsite,180000,0.1,Pending,6,C,Employed
+TS085,Student_85,Female,30,Full Stack Web Development,2024-11-21,2025-03-26,Abuja,Onsite,300000,0.1,Paid,8,A,Employed
+TS086,Student_86,Male,31,Full Stack Web Development,2025-07-03,2025-11-16,Abuja,Online,300000,0.1,Paid,7,C,Employed
+TS087,Student_87,Female,27,Data Analysis,2024-06-20,2024-09-29,Lagos,Onsite,200000,0.05,Paid,9,A,Unemployed
+TS088,Student_88,Male,32,Full Stack Web Development,2025-07-03,2025-11-14,Abuja,Online,300000,0.0,Pending,8,D,Employed
+TS089,Student_89,Male,28,Data Analysis,2025-08-10,2026-02-24,Port Harcourt,Online,200000,0.15,Paid,8,D,Unemployed
+TS090,Student_90,Male,26,Data Analysis,2024-09-26,2025-03-04,Abuja,Online,200000,0.0,Paid,7,C,Unemployed
+TS091,Student_91,Female,21,Data Analysis,2024-02-11,2024-08-17,Abuja,Onsite,200000,0.15,Paid,10,D,Employed
+TS092,Student_92,Female,18,Product Design,2025-07-28,2025-11-19,Lagos,Online,180000,0.0,Pending,6,B,Employed
+TS093,Student_93,Female,24,Product Design,2024-07-16,2024-10-29,Port Harcourt,Online,180000,0.1,Paid,8,C,Further Study
+TS094,Student_94,Male,24,Product Design,2025-02-23,2025-07-01,Abuja,Online,180000,0.0,Paid,7,C,Employed
+TS095,Student_95,Female,19,Cyber Security,2025-05-31,2025-11-20,Lagos,Onsite,250000,0.05,Paid,8,A,Employed
+TS096,Student_96,Female,32,Data Analysis,2024-09-17,2025-01-23,Port Harcourt,Onsite,200000,0.15,Paid,7,C,Employed
+TS097,Student_97,Female,21,Cyber Security,2024-10-09,2025-03-26,Ibadan,Online,250000,0.05,Pending,10,B,Employed
+TS098,Student_98,Male,31,Product Design,2025-01-30,2025-08-07,Lagos,Onsite,180000,0.05,Paid,5,C,Unemployed
+TS099,Student_99,Male,29,Full Stack Web Development,2024-12-21,2025-06-06,Lagos,Onsite,300000,0.0,Paid,6,A,Employed
+TS100,Student_100,Female,26,Cyber Security,2024-02-20,2024-06-27,Abuja,Onsite,250000,0.0,Pending,5,B,Employed
+TS101,Student_101,Female,31,Full Stack Web Development,2024-06-30,2025-01-02,Lagos,Online,300000,0.1,Paid,7,D,Unemployed
+TS102,Student_102,Male,26,Data Analysis,2024-05-16,2024-11-05,Ibadan,Online,200000,0.0,Paid,7,C,Employed
+TS103,Student_103,Female,28,Cyber Security,2025-01-20,2025-05-06,Abuja,Online,250000,0.05,Pending,7,C,Employed
+TS104,Student_104,Male,24,Full Stack Web Development,2025-05-15,2025-11-18,Lagos,Online,300000,0.0,Paid,10,B,Employed
+TS105,Student_105,Male,34,Product Design,2024-03-24,2024-08-19,Ibadan,Onsite,180000,0.05,Paid,9,D,Employed
+TS106,Student_106,Male,30,Cyber Security,2024-08-02,2024-12-30,Port Harcourt,Onsite,250000,0.1,Paid,10,A,Unemployed
+TS107,Student_107,Male,33,Full Stack Web Development,2024-01-19,2024-05-15,Lagos,Onsite,300000,0.1,Paid,6,B,Employed
+TS108,Student_108,Female,23,Product Design,2024-09-20,2025-01-26,Port Harcourt,Online,180000,0.1,Paid,6,C,Unemployed
+TS109,Student_109,Female,18,Product Design,2024-02-24,2024-09-02,Ibadan,Onsite,180000,0.1,Paid,5,A,Employed
+TS110,Student_110,Female,25,Cyber Security,2024-08-26,2025-02-08,Port Harcourt,Online,250000,0.15,Paid,6,C,Employed
+TS111,Student_111,Female,31,Product Design,2025-03-27,2025-08-10,Abuja,Online,180000,0.05,Paid,6,C,Unemployed
+TS112,Student_112,Male,33,Data Analysis,2025-07-01,2025-11-06,Ibadan,Onsite,200000,0.05,Pending,9,D,Employed
+TS113,Student_113,Male,19,Product Design,2025-04-15,2025-08-04,Ibadan,Online,180000,0.0,Paid,10,A,Employed
+TS114,Student_114,Female,20,Full Stack Web Development,2025-05-20,2025-11-21,Ibadan,Onsite,300000,0.0,Pending,7,B,Employed
+TS115,Student_115,Female,34,Cyber Security,2024-04-24,2024-10-21,Abuja,Online,250000,0.15,Paid,5,C,Employed
+TS116,Student_116,Female,28,Cyber Security,2024-01-04,2024-05-08,Abuja,Online,250000,0.0,Paid,9,C,Further Study
+TS117,Student_117,Female,27,Full Stack Web Development,2024-02-10,2024-06-26,Abuja,Online,300000,0.0,Paid,6,D,Employed
+TS118,Student_118,Female,23,Product Design,2024-06-16,2024-12-30,Ibadan,Online,180000,0.0,Paid,6,A,Further Study
+TS119,Student_119,Male,31,Full Stack Web Development,2024-05-09,2024-10-09,Port Harcourt,Online,300000,0.1,Paid,7,B,Employed
+TS120,Student_120,Male,25,Product Design,2025-05-26,2025-10-08,Lagos,Online,180000,0.1,Paid,10,B,Employed
+TS121,Student_121,Female,22,Full Stack Web Development,2024-10-15,2025-02-27,Port Harcourt,Onsite,300000,0.1,Paid,7,A,Employed
+TS122,Student_122,Male,28,Cyber Security,2024-07-19,2024-11-21,Abuja,Online,250000,0.0,Paid,5,A,Employed
+TS123,Student_123,Male,25,Cyber Security,2024-01-25,2024-06-11,Port Harcourt,Online,250000,0.05,Paid,8,C,Employed
+TS124,Student_124,Female,29,Product Design,2025-09-04,2026-01-25,Port Harcourt,Online,180000,0.0,Paid,6,A,Employed
+TS125,Student_125,Male,29,Cyber Security,2025-08-14,2026-02-17,Port Harcourt,Onsite,250000,0.1,Pending,9,B,Unemployed
+TS126,Student_126,Female,29,Product Design,2025-07-24,2025-11-26,Lagos,Online,180000,0.05,Paid,6,D,Further Study
+TS127,Student_127,Male,24,Cyber Security,2024-11-30,2025-03-16,Lagos,Online,250000,0.15,Paid,7,C,Unemployed
+TS128,Student_128,Male,24,Product Design,2025-02-05,2025-07-13,Abuja,Online,180000,0.0,Paid,7,D,Employed
+TS129,Student_129,Female,20,Data Analysis,2024-06-19,2024-11-05,Abuja,Online,200000,0.1,Paid,5,D,Unemployed
+TS130,Student_130,Male,30,Cyber Security,2024-06-09,2024-10-02,Lagos,Onsite,250000,0.15,Paid,7,B,Further Study
+TS131,Student_131,Male,30,Data Analysis,2024-09-30,2025-02-08,Ibadan,Online,200000,0.1,Pending,8,A,Unemployed
+TS132,Student_132,Male,29,Data Analysis,2024-09-28,2025-03-02,Ibadan,Online,200000,0.0,Paid,5,C,Employed
+TS133,Student_133,Male,18,Cyber Security,2024-01-03,2024-05-26,Abuja,Onsite,250000,0.05,Pending,6,B,Employed
+TS134,Student_134,Female,18,Data Analysis,2025-08-07,2025-11-29,Lagos,Online,200000,0.15,Paid,7,B,Unemployed
+TS135,Student_135,Male,28,Full Stack Web Development,2025-03-15,2025-08-24,Abuja,Onsite,300000,0.1,Pending,6,A,Unemployed
+TS136,Student_136,Female,25,Full Stack Web Development,2025-07-28,2025-12-28,Lagos,Online,300000,0.0,Paid,7,B,Employed
+TS137,Student_137,Male,34,Cyber Security,2024-09-15,2024-12-29,Lagos,Online,250000,0.05,Pending,5,A,Further Study
+TS138,Student_138,Female,34,Data Analysis,2025-05-04,2025-09-15,Abuja,Onsite,200000,0.05,Pending,7,D,Employed
+TS139,Student_139,Male,32,Data Analysis,2024-11-24,2025-05-10,Abuja,Online,200000,0.05,Paid,7,C,Employed
+TS140,Student_140,Male,20,Data Analysis,2024-11-27,2025-04-17,Lagos,Online,200000,0.15,Pending,7,C,Employed
+TS141,Student_141,Female,32,Cyber Security,2024-11-23,2025-03-07,Ibadan,Onsite,250000,0.05,Paid,8,D,Unemployed
+TS142,Student_142,Male,30,Data Analysis,2024-04-23,2024-09-09,Lagos,Onsite,200000,0.05,Paid,6,C,Employed
+TS143,Student_143,Female,25,Product Design,2024-10-15,2025-01-28,Ibadan,Online,180000,0.15,Paid,5,C,Further Study
+TS144,Student_144,Male,30,Product Design,2025-07-10,2026-01-14,Lagos,Onsite,180000,0.15,Paid,10,D,Employed
+TS145,Student_145,Male,30,Cyber Security,2024-01-31,2024-06-01,Abuja,Onsite,250000,0.15,Paid,10,C,Employed
+TS146,Student_146,Female,19,Cyber Security,2025-08-11,2026-02-19,Ibadan,Online,250000,0.05,Paid,10,C,Further Study
+TS147,Student_147,Male,25,Product Design,2025-03-23,2025-09-26,Lagos,Online,180000,0.15,Paid,10,C,Employed
+TS148,Student_148,Female,19,Product Design,2025-02-15,2025-07-24,Port Harcourt,Onsite,180000,0.0,Paid,8,D,Unemployed
+TS149,Student_149,Female,21,Product Design,2024-07-10,2024-11-03,Ibadan,Onsite,180000,0.0,Paid,5,B,Unemployed
+TS150,Student_150,Male,31,Full Stack Web Development,2024-10-11,2025-04-04,Ibadan,Online,300000,0.1,Paid,8,C,Employed
